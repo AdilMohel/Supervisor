@@ -21,6 +21,7 @@ class TechnicianDetail extends StatelessWidget {
               children: [
                 buildHeader(),
                 SizedBox(height: 10),
+
                 Padding(
                   padding: const EdgeInsets.symmetric(horizontal: 20),
                   child: Container(
